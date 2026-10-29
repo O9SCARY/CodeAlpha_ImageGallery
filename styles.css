@@ -7,4 +7,16 @@
     --margin-left-right-for-mobile: 30px;
     --margin-space-for-rel-items: 20px;
     --margin-space-for-unrel-items: 45px;
+
+    /*COLOURS*/
+    --body-bg-color: rgb(246, 242, 242);
+    
+}
+body{
+    background-color: var(--body-bg-color);
+    margin: 0;
+    padding: 0;
+    margin-left: var(--margin-left-right-for-desktop);
+    margin-right: var(--margin-left-right-for-desktop);
+    margin-top: var(--margin-space-for-unrel-items);
 }
