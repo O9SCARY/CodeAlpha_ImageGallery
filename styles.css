@@ -1,0 +1,10 @@
+:root{
+    --h1-size-for-desktop:64px;
+    --h1-size-for-mobile: 40px;
+    --image-width-for-desktop: 350px;
+    --image-width-for-desktop: 100px;
+    --margin-left-right-for-desktop: 60px;
+    --margin-left-right-for-mobile: 30px;
+    --margin-space-for-rel-items: 20px;
+    --margin-space-for-unrel-items: 45px;
+}
