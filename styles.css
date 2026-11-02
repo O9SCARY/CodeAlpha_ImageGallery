@@ -24,9 +24,13 @@ h1{
     font-size: var(--h1-size-for-desktop);
     text-align: center;
 }
-.pic-slideshow{
+.pic-container, .pic-slideshow{
     display: flex;
-    justify-content: center;align-items: center;
+    justify-content: center;
+    align-items: center;
+}
+.pic-container{
+    max-width: 650px;
 }
 .pictures{
     border: 1px solid white;
