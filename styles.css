@@ -20,3 +20,15 @@ body{
     margin-right: var(--margin-left-right-for-desktop);
     margin-top: var(--margin-space-for-unrel-items);
 }
+h1{
+    font-size: var(--h1-size-for-desktop);
+    text-align: center;
+}
+.pic-slideshow{
+    display: flex;
+    justify-content: center;
+}
+.pictures{
+    border: 1px solid white;
+    border-radius: 15px;
+}
