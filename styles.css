@@ -26,7 +26,7 @@ h1{
 }
 .pic-slideshow{
     display: flex;
-    justify-content: center;
+    justify-content: center;align-items: center;
 }
 .pictures{
     border: 1px solid white;
@@ -35,4 +35,10 @@ h1{
 }
 .pictures.active{
     display: block;
+}
+a{
+    font-weight: 500;
+}
+.nav-btns{
+    margin: 0 200px;
 }
