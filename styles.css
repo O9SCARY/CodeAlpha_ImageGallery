@@ -31,4 +31,8 @@ h1{
 .pictures{
     border: 1px solid white;
     border-radius: 15px;
+    display: none
+}
+.pictures.active{
+    display: block;
 }
